@@ -3,7 +3,7 @@ import time
 import random
 import os
 
-TOKEN = os.getenv("8647508858:AAHvcKhgzmFL2lwShGZzE3S_Rg-sqt9TqZA") or "YOUR_TOKEN"
+TOKEN = os.getenv("8647508858:AAFLsdlgvgiFEPGm4f5M8JoToQ7nYkLZ4Ms") or "YOUR_TOKEN"
 CHAT_ID = os.getenv("-1003993079945") or "YOUR_CHAT_ID"
 
 sizes = ["BIG", "SMALL"]
